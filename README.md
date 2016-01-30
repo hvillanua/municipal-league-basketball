@@ -13,30 +13,27 @@ Take into acount that the script format may change without notice rendering this
 The input format for the game statistics follows a simple tabular schema:
 Nº | Nombre | Puntos | Band m | Band f | Band % | 2p m | 2p f | 2p % | 3p m | 3p f | 3p % | TL m | TL f | TL % | Reb Of | Reb Def | Asistencias | Recuper | Perdidas | Tap Rea | Tap Rec | Faltas Rec | Faltas Rea
 
-English translation:
-Nº | Name | Points | Layup s | Layup f | Layup % | 2p s | 2p f | 2p % | 3p s | 3p f | 3p % | FT m | FT f | FT % | Off Reb | Def Reb | Assists | Recov | Loss | Blo Mad | Blo Rec | Fouls Mad | Fouls Rec
-
-Nº - Number of the player.
-Nombre - Name of the player.
-Puntos - Points score in the game.
-Band m - Successful layups.
-Band f - Failed layups.
-Band % - Layup success (%).
-2p m - Successful 2 point field goals.
-2p f - Failed 2 point field goals.
-2p % - Layup success (%).
-3p m - Successful 3 point field goals.
-3p f - Failed 2 point field goals.
-3p % - Layup success (%).
-TL m - Successful 2 point field goals.
-TL f - Failed 2 point field goals.
-TL % - Layup success (%).
-Reb Of - Offensive rebounds.
-Reb Def - Defensive rebounds
-Asistencias - Assists.
-Recuper - Recoveries.
-Perdidas - Losses.
-Tap Rea - Blocks made.
-Tap Rec - Blocks received.
-Faltas Rec - Fouls made.
-Faltas Rea - Fouls received.
+- Nº - Number of the player.
+- Nombre - Name of the player.
+- Puntos - Points score in the game.
+- Band m - Successful layups.
+- Band f - Failed layups.
+- Band % - Layup success (%).
+- 2p m - Successful 2 point field goals.
+- 2p f - Failed 2 point field goals.
+- 2p % - Layup success (%).
+- 3p m - Successful 3 point field goals.
+- 3p f - Failed 2 point field goals.
+- 3p % - Layup success (%).
+- TL m - Successful 2 point field goals.
+- TL f - Failed 2 point field goals.
+- TL % - Layup success (%).
+- Reb Of - Offensive rebounds.
+- Reb Def - Defensive rebounds
+- Asistencias - Assists.
+- Recuper - Recoveries.
+- Perdidas - Losses.
+- Tap Rea - Blocks made.
+- Tap Rec - Blocks received.
+- Faltas Rec - Fouls made.
+- Faltas Rea - Fouls received.
